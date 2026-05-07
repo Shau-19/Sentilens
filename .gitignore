@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.onnx
+
+*.onnx.data
+
+# ── Frontend ──────────────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/build/
+node_modules/
+dist/
+.vite/
