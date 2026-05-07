@@ -46,7 +46,7 @@ export default function Nav() {
             {label}
           </NavLink>
         ))}
-        <a href="https://github.com/shauryajain/sentilens" target="_blank"
+        <a href="https://github.com/Shau-19/Sentilens" target="_blank"
           style={{
             fontSize:'0.7rem', letterSpacing:'0.1em', textTransform:'uppercase',
             color:'var(--text-3)', border:'1px solid var(--border)',
